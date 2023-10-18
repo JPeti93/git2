@@ -1,1 +1,3 @@
-# git2
+Tanulás git
+github
+visualstudio# git2
